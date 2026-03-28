@@ -1,5 +1,17 @@
 MIT License
 
+requirements.txt
+
+```txt
+fastapi
+uvicorn
+streamlit
+scikit-learn
+pandas
+numpy
+transformers
+requests
+
 Copyright (c) 2026 Aashi Gupta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
